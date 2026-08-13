@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-vc23uw.theriverbedandbreakfast.com.au/sitemap.xml
